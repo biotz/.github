@@ -37,6 +37,6 @@ fork, and submit your pull request as usual.
 
 [1]: https://chris.beams.io/posts/git-commit/#seven-rules
 [2]: https://github.com/bbatsov/clojure-style-guide
-[3]: https://github.com/magnetcoop/.github/CLA-individual.docx
-[4]: https://github.com/magnetcoop/.github/CLA-corporate.docx
+[3]: https://github.com/magnetcoop/.github/raw/master/CLA-individual.docx
+[4]: https://github.com/magnetcoop/.github/raw/master/CLA-corporate.docx
 [5]: https://en.wikipedia.org/wiki/Contributor_License_Agreement
