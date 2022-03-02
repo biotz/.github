@@ -26,7 +26,7 @@ same branch and the PR will be updated.
 **Do** sign the Contributor License Agreement.
 
 You must sign a Contribution License Agreement (CLA) ([for individuals][3],
-[for corporations][4])before your pull request will be merged.
+[for corporations][4]) before your pull request will be merged.
 This a one-time requirement for contributing to each Magnet's open
 source project. You can read more about [Contributor License Agreements
 (CLA) on Wikipedia][5].
