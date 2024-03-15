@@ -27,7 +27,7 @@ same branch and the PR will be updated.
 
 You must sign a Contribution License Agreement (CLA) ([for individuals][3],
 [for corporations][4]) before your pull request will be merged.
-This a one-time requirement for contributing to each Magnet's open
+This a one-time requirement for contributing to each Biotz's open
 source project. You can read more about [Contributor License Agreements
 (CLA) on Wikipedia][5].
 
@@ -37,6 +37,6 @@ fork, and submit your pull request as usual.
 
 [1]: https://chris.beams.io/posts/git-commit/#seven-rules
 [2]: https://github.com/bbatsov/clojure-style-guide
-[3]: https://github.com/magnetcoop/.github/raw/master/CLA-individual.docx
-[4]: https://github.com/magnetcoop/.github/raw/master/CLA-corporate.docx
+[3]: https://github.com/biotz/.github/raw/master/CLA-individual.docx
+[4]: https://github.com/biotz/.github/raw/master/CLA-corporate.docx
 [5]: https://en.wikipedia.org/wiki/Contributor_License_Agreement
